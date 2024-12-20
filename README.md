@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Footboard5358
-- 👀 I’m interested in bioinformatics, data science and data visualisation.
+- 👀 I’m interested in bioinformatics, computational biology, data science and data visualisation.
 - 🌱 I’m currently learning Python, R and Shell for biological data analysis.
 - 📫 How to reach me: bondarevgeorgii22@gmail.com
 <!---
