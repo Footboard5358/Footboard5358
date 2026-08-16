@@ -1,6 +1,5 @@
 ## About Me 
-- 🧫 Currently working as a lab assistant researcher at Far Eastern Federal University, Vladivostok, Russia.
-- 🎓 Doing Master's degree in Medical Biochemistry.
+- 🎓 MSc in Medical Biochemistry
 - 🧬 Main interests: microbial omics, synbio and metabolic engineering, natural product research, marine-derived natural products
 - 🌐 My small personal webpage: https://bondarevgeorgii.neocities.org/
 
